@@ -6,6 +6,7 @@ import {
     Middleware,
     Route,
     Service,
+    WebApp,
     IsomorphicApp
 } from "infrastructure-components";
 
@@ -73,4 +74,4 @@ export default (
             }}/>
 
         </Service>
-    </ServiceOrientedApp>);
+    </IsomorphicApp>);
