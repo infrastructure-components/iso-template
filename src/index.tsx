@@ -45,6 +45,7 @@ export default (
             <Middleware
                 callback={ function (req, res, next) {
                     console.log("this middleware runs when requesting a page");
+                    next();
                 }}/>
 
             <Route
