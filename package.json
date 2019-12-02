@@ -30,6 +30,7 @@
     "serverless-dynamodb-local": "^0.2.38",
     "serverless-offline": "^4.9.4",
     "serverless-pseudo-parameters": "^2.5.0",
+    "serverless-s3-local": "^0.5.3",
     "serverless-single-page-app-plugin": "^1.0.2"
   }
 }
